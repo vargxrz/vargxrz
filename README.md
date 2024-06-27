@@ -10,14 +10,6 @@
 <a href="https://x.com/Vargxrz" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </a>
-
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 <br>
 
