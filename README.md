@@ -7,7 +7,7 @@
 
 <br>
 
-<p align="left">I'm João Vargas<br><br>- 🔭 I’m working as developer <br>- 📚 I'm currently learning React<br>- ⚡ In my free time I like to play sports </p>
+<p align="left">I'm João Vargas<br><br>- 🔭 I’m working as developer <br>
 
 <br>
 
