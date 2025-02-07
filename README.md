@@ -5,7 +5,6 @@
 <p align="left">I'm João Vargas</p>  
 <p align="left">🔭 I currently work as a back-end developer specializing in Java and Spring Boot. Additionally, I have experience with the other languages and tools listed below:</p>  
 <br>  
-
 <h3 align="left">🛠 Languages and Tools</h3>  
 <br>  
 <div align="left">  
