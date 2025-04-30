@@ -3,7 +3,7 @@
 <h3 align="left">👩‍💻 About Me</h3>  
 <br>  
 <p align="left">I'm João Vargas</p>  
-<p align="left">🔭 I currently work as a back-end developer specializing in Java and Spring Boot. Additionally, I have experience with the other languages and tools listed below:</p>  
+<p align="left">🔭 I currently work as a developer, working with both front-end and back-end. While I'm not an expert, I'm always looking for new knowledge and challenges to keep growing.</p>  
 <br>  
 <h3 align="left">🛠 Languages and Tools</h3>  
 <br>  
