@@ -3,7 +3,7 @@
 <h3 align="left">👩‍💻 About Me</h3>  
 <br>  
 <p align="left">I'm João Vargas</p>  
-<p align="left">🔭 I currently work as a developer, working with both front-end and back-end. While I'm not an expert, I'm always looking for new knowledge and challenges to keep growing.</p>  
+<p align="left">🔭 I'm João Gabriel, passionate about technology and currently working as a Junior Full Stack Developer.</p>  
 <br>  
 <h3 align="left">🛠 Languages and Tools</h3>  
 <br>  
