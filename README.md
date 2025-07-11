@@ -13,12 +13,5 @@ const vargas = {
     databases: ["MySQL", "MongoDB", "PostgreSQL"],
     tools: ["Docker", "Git", "Figma"]
   },
-  certifications: [
-    "Spring Boot Expert: JPA, RESTFul API, Security, JWT",
-    "Java Fundamentals, OOP, Functional Programming",
-    "Docker from Beginner to Advanced",
-    "PostgreSQL and SQL Language",
-    "Spring Boot Unit Testing with JUnit, Mockito and Mock"
-  ],
   focus: "Building efficient backend systems while contributing to the frontend. Always aiming to improve and learn new technologies."
 };
