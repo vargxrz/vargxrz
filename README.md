@@ -1,3 +1,4 @@
+```ts
 const vargas = {
   name: "João Vargas",
   age: 18,
