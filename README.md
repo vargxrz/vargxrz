@@ -10,7 +10,7 @@ const vargas = {
     frontend: ["React", "HTML", "CSS", "Storybook"],
     backend: ["Spring Boot", "JPA", "REST API", "JWT"],
     testing: ["JUnit", "Mockito", "Mock", "Playwright"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL"],
+    databases: ["MySQL", "PostgreSQL"],
     tools: ["Docker", "Git", "Figma"]
   },
   focus: "Building efficient backend systems while contributing to the frontend. Always aiming to improve and learn new technologies."
