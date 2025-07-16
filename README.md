@@ -3,7 +3,7 @@
 🧑‍💻 Desenvolvedor de Software Júnior, apaixonado por construir soluções limpas, funcionais e com impacto real.  
 📍 Santa Catarina, Brasil  
 🎯 Foco: Backend com Java e Spring Boot, mas também colaborando com frontend usando React.  
-📈 Sempre aprendendo, evoluindo e contribuindo com projetos que fazem a diferença.
+📈 Sempre aprendendo, evoluindo e contribuindo com projetos.
 
 ---
 
