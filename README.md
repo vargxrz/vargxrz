@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou João Gabriel Vargas
 
-🧑‍💻 Desenvolvedor de Software Júnior, apaixonado por construir soluções limpas, funcionais e com impacto real.  
+🧑‍💻 Desenvolvedor de Software Júnior
 📍 Santa Catarina, Brasil  
 🎯 Foco: Backend com Java e Spring Boot, mas também colaborando com frontend usando React.  
 📈 Sempre aprendendo, evoluindo e contribuindo com projetos.
