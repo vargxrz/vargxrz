@@ -31,7 +31,7 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vargxrz&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielVargas&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargxrz&layout=compact&theme=tokyonight" width="350"/>
 </p>
