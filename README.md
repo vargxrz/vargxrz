@@ -32,7 +32,7 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img width="420" height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielVargas&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub"/>
-  &nbsp;&nbsp;
-  <img width="420" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielVargas&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielVargas&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielVargas&layout=compact&theme=tokyonight" width="350"/>
 </p>
