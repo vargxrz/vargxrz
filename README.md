@@ -41,12 +41,6 @@
 <!-- Linguagens mais usadas -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielVargas&layout=compact&theme=tokyonight)
 
-<!-- Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=JoaoGabrielVargas&theme=onedark&no-bg=true&no-frame=true)
-
-<!-- Summary Card -->
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoGabrielVargas&theme=dracula)
-
 ---
 
 ## 🌱 Sobre mim
