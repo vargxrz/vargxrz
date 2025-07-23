@@ -7,7 +7,7 @@
 
 ---
 
-🧰 Minhas Tecnologias e Ferramentas
+## 🧰 Minhas Tecnologias e Ferramentas
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,postgres,docker,git,linux,figma,jira" /> </p>
 
 ---
