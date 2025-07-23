@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Gabriel Vargas
+# 👋 Olá! Eu sou João Gabriel Reinert Vargas
 
 🧑‍💻 Desenvolvedor de Software Júnior  
 📍 Santa Catarina, Brasil  
