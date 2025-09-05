@@ -14,6 +14,6 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargxrz&layout=compact&theme=tokyonight&cache_seconds=60" width="350"/>
 </p>
