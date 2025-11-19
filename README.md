@@ -2,7 +2,7 @@
 
 🧑‍💻 Desenvolvedor de Software Júnior  
 📍 Santa Catarina, Brasil  
-🎯 Foco: Full Stack Developer com experiência em Java, React e Flutter.
+🎯 Full Stack Developer com experiência em Java, React e Flutter.
 📈 Sempre aprendendo, evoluindo e contribuindo com projetos.
 
 ---
