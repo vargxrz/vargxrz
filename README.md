@@ -1,12 +1,12 @@
-# 👋 Olá! Eu sou João Gabriel Reinert Vargas
+# Hello! I am João Gabriel Reinert Vargas
 
-🧑‍💻 Desenvolvedor de Software Júnior  
-📍 Santa Catarina, Brasil  
-🎯 Full Stack Developer com experiência em Java, React e Flutter.
+🧑‍💻 Junior Software Developer
+📍 Santa Catarina, Brazil
+🎯 Full Stack Developer with experience in Java, React, and Flutter.
 
 ---
 
-## 🧰 Minhas Tecnologias e Ferramentas
+## My Technologies and Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,postgres,docker,git,linux,figma,flutter" /> </p>
 
 ---
