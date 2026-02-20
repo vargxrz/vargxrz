@@ -3,7 +3,6 @@
 🧑‍💻 Junior Software Developer
 📍 Santa Catarina, Brazil
 🎯 Full Stack Developer with experience in Java, React, and Flutter.
-
 ---
 
 ## My Technologies and Tools
