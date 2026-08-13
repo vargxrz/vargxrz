@@ -1,66 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E1B4B&height=200&section=header&text=João%20Gabriel%20Reinert%20Vargas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:21262d&height=280&section=header&text=João%20Gabriel%20Vargas&fontSize=52&fontColor=e6edf3&animation=fadeIn&fontAlignY=36&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descAlignY=55&descSize=20&descColor=58a6ff&stroke=58a6ff&strokeWidth=1" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Java+%2B+React;Construindo+software+com+prop%C3%B3sito;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=520&lines=Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Flutter+%7C+PostgreSQL+%7C+Docker;Building+software+with+purpose." alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-### 👋 Sobre mim
+```
+🧑‍💻  Junior Full Stack Developer
+📍  Santa Catarina, Brasil
+🚀  Focused on clean architecture and purposeful software
+```
 
-🧑‍💻 Junior Software Developer<br>
-📍 Santa Catarina, Brasil<br>
-🎯 Full Stack Developer com experiência em Java, React e Flutter<br>
-🚀 Atualmente evoluindo projetos com React, TypeScript e boas práticas de arquitetura
+<br/>
 
-<br>
+### Stack
 
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,html,css,js,mysql,postgres,docker,git,linux,figma,flutter&theme=dark" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-000?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-<br>
+<br/>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vargxrz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargxrz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vargxrz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000&icon_color=58a6ff&title_color=e6edf3&text_color=8b949e" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargxrz&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vargxrz&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=vargxrz&theme=github-dark-blue&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e" />
 </div>
 
-<br>
-
-### 🐍 Snake das Contribuições
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vargxrz/vargxrz/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vargxrz/vargxrz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-<br>
-
-### 📫 Contato
-
-<p align="left">
-  <a href="https://linkedin.com/in/vargxrz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vargasvargasjoa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:2563EB&height=100&section=footer" width="100%"/>
 
 </div>
