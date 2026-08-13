@@ -4,10 +4,6 @@
 
 <br/>
 
-🧑‍💻 Junior Full Stack Developer &nbsp;·&nbsp; 📍 Santa Catarina, Brasil
-
-<br/>
-
 </div>
 
 ### Stack
