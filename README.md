@@ -26,20 +26,6 @@
 
 <br/>
 
-### GitHub Stats
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vargxrz&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vargxrz&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;area_color=1f3a5f" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githabout:blank#blockedubusercontent.com/vargxrz/vargxrz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/vargxrz/vargxrz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
