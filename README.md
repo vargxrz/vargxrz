@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0d1117,100:21262d&amp;height=280&amp;section=header&amp;text=João%20Gabriel%20Vargas&amp;fontSize=52&amp;fontColor=e6edf3&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=%3C%20Full%20Stack%20Developer%20%2F%3E&amp;descAlignY=55&amp;descSize=20&amp;descColor=58a6ff" width="100%"/>
+<img src="vargas.png" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=15&amp;pause=1000&amp;color=8B949E&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Flutter+%7C+PostgreSQL+%7C+Docker;Building+software+with+purpose." alt="Typing SVG" />
-
-<br/><br/>
-
-📍 Santa Catarina, Brasil
+🧑‍💻 Junior Full Stack Developer &nbsp;·&nbsp; 📍 Santa Catarina, Brasil
 
 <br/>
 
@@ -37,16 +33,17 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vargxrz&amp;show_icons=true&amp;theme=github_dark_dimmed&amp;hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargxrz&amp;layout=compact&amp;theme=github_dark_dimmed&amp;hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vargxrz&amp;theme=github-dark-blue&amp;hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vargxrz&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vargxrz/vargxrz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vargxrz&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff&amp;area=true&amp;area_color=1f3a5f" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githabout:blank#blockedubusercontent.com/vargxrz/vargxrz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
